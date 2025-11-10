@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+}
+body {
+    font-size: 16px;
+    color: #fafafa;
+    text-align: left;
+}
+h1{
+    font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+}
+   .border{
+    border-radius: 25px;
+    background-color: blue;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+   }
+div tudo{
+    margin: 20px;
+    padding: 20px;
+}
+p{
+    margin-left: 20px;
+    padding: 4px;
+    font-size: 14px;
+}
+div Links pessoais{
+    text-align: center;
+}
